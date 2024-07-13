@@ -1,3 +1,13 @@
+# x13-me Fork:
+
+## Hardware Design
+
+Personal note:
+> I work in EasyEDA Pro on a "vintage" mac, i'll try to provide interoperable files where possible, and when i've sanitised a release of the .eprj file, i'll share this, to enable easy ordering of an assembled board with all components from JLCPCB/lcsc.
+> The intent of this hardware design is to provide a "universal" CEC injector, to add ESPHome to a TV (or other HDMI link).
+> I'll *hopefully* be able to add optional DDC when this is operational.
+> Jumper caps are used for various purposes, and I'll write a table when I've finalised this.
+
 # ESPHome Native HDMI-CEC Component
 
 Make your ESPHome devices speak the (machine) language of your living room with this native HDMI-CEC (Consumer Electronics Control) component!
