@@ -2,6 +2,8 @@
 
 ## Hardware Design
 
+All Hardware Design will be in the [hardware-design branch](https://github.com/x13-me/esphome-native-hdmi-cec/tree/hardware-design), not the main branch of this repo.
+
 Personal note:
 > I work in EasyEDA Pro on a "vintage" mac, i'll try to provide interoperable files where possible, and when i've sanitised a release of the .eprj file, i'll share this, to enable easy ordering of an assembled board with all components from JLCPCB/lcsc.
 > The intent of this hardware design is to provide a "universal" CEC injector, to add ESPHome to a TV (or other HDMI link).
